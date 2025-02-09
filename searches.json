@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.olx.pl/elektronika/komputery/podzespoly-i-czesci/karty-graficzne/q-rtx-4090/?search%5Border%5D=created_at:desc&search%5Bfilter_float_price:from%5D=500&search%5Bfilter_float_price:to%5D=6000&search%5Bfilter_enum_graphicscardmemory%5D%5B0%5D=16gb-and-more",
+        "min_price": 1000,
+        "max_price": 6000,
+        "required_keyword": "4090"
+    },
+    {
+        "url": "https://www.olx.pl/elektronika/komputery/podzespoly-i-czesci/karty-graficzne/q-rtx-4080/?search%5Border%5D=created_at:desc&search%5Bfilter_float_price:from%5D=500&search%5Bfilter_float_price:to%5D=3500&search%5Bfilter_enum_graphicscardmemory%5D%5B0%5D=16gb-and-more",
+        "min_price": 1000,
+        "max_price": 3000,
+        "required_keyword": "4080"
+    },
+    {
+        "url": "https://www.olx.pl/elektronika/komputery/podzespoly-i-czesci/karty-graficzne/q-rtx-4070/?search%5Border%5D=created_at:desc&search%5Bfilter_float_price:from%5D=500&search%5Bfilter_float_price:to%5D=3000",
+        "min_price": 1000,
+        "max_price": 2100,
+        "required_keyword": "4070"
+    },
+    {
+        "url": "https://www.olx.pl/elektronika/komputery/podzespoly-i-czesci/karty-graficzne/q-rtx-4060/?search%5Border%5D=created_at:desc&search%5Bfilter_float_price:from%5D=500&search%5Bfilter_float_price:to%5D=1000",
+        "min_price": 500,
+        "max_price": 1000,
+        "required_keyword": "4060"
+    }
+]
