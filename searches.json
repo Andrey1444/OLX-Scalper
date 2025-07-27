@@ -1,14 +1,50 @@
 [
     {
-        "url": "https://www.olx.ua/uk/list/q-Canon-PowerShot/?min_id=894778677&reason=observed_search&search[filter_float_price%3Afrom]=3000&search[filter_float_price%3Ato]=16000&search[order]=created_at%3Adesc",
+        "url": "https://www.olx.ua/uk/list/q-Canon/?search%5Bfilter_float_price:from%5D=3000&search%5Bfilter_float_price:to%5D=20000",
         "min_price": 3000,
-        "max_price": 16000,
-        "required_keyword": "Canon"
+        "max_price": 20000,
+        "required_keyword": "G9"
     },
     {
-        "url": "https://www.olx.ua/uk/list/q-Canon-G7X/?search%5Border%5D=created_at:desc&search%5Bfilter_float_price:from%5D=3500&search%5Bfilter_float_price:to%5D=16000&search%5Bfilter_enum_state%5D%5B0%5D=used",
-        "min_price": 3500,
-        "max_price": 16000,
+        "url": "https://www.olx.ua/uk/list/q-Canon/?search%5Bfilter_float_price:from%5D=3000&search%5Bfilter_float_price:to%5D=20000",
+        "min_price": 3000,
+        "max_price": 20000,
+        "required_keyword": "G10"
+    },
+    {
+        "url": "https://www.olx.ua/uk/list/q-Canon/?search%5Bfilter_float_price:from%5D=3000&search%5Bfilter_float_price:to%5D=20000",
+        "min_price": 3000,
+        "max_price": 20000,
+        "required_keyword": "G11"
+    },
+    {
+        "url": "https://www.olx.ua/uk/list/q-Canon/?search%5Bfilter_float_price:from%5D=3000&search%5Bfilter_float_price:to%5D=20000",
+        "min_price": 3000,
+        "max_price": 20000,
+        "required_keyword": "G12"
+    },
+    {
+        "url": "https://www.olx.ua/uk/list/q-Canon/?search%5Bfilter_float_price:from%5D=3000&search%5Bfilter_float_price:to%5D=20000",
+        "min_price": 3000,
+        "max_price": 20000,
         "required_keyword": "G7X"
-    }
+    },
+    {
+        "url": "https://www.olx.ua/uk/list/q-Canon/?search%5Bfilter_float_price:from%5D=3000&search%5Bfilter_float_price:to%5D=20000",
+        "min_price": 3000,
+        "max_price": 20000,
+        "required_keyword": "G1X"
+    },
+    {
+        "url": "https://www.olx.ua/uk/list/q-Canon/?search%5Bfilter_float_price:from%5D=3000&search%5Bfilter_float_price:to%5D=20000",
+        "min_price": 3000,
+        "max_price": 20000,
+        "required_keyword": "G16"
+    },
+    {
+        "url": "https://www.olx.ua/uk/list/q-Canon/?search%5Bfilter_float_price:from%5D=3000&search%5Bfilter_float_price:to%5D=20000",
+        "min_price": 3000,
+        "max_price": 20000,
+        "required_keyword": "G15"
+    }        
 ]
